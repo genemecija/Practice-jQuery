@@ -1,1 +1,3 @@
-# Practice-jQuery
+# jQuery-Practice
+
+Practice site for jQuery.
