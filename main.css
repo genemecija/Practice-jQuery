@@ -16,3 +16,10 @@ body {
     justify-content: center;
     align-items: center;
 }
+
+@media screen and (max-width: 412px) {
+    #myDiv {
+        width: 100vw;
+        height: auto;
+    }
+}
