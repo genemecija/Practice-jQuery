@@ -8,6 +8,9 @@ body {
     align-items: center;
     flex-direction: column;
 }
+#myButton {
+    margin-top: 50px;
+}
 #myDiv {
     background-color: slategray;
     width: 250px;
@@ -22,6 +25,9 @@ img {
 }
 
 @media screen and (max-width: 412px) {
+    #myButton {
+        margin-top: 10px;
+    }
     #myDiv {
         width: 100vw;
         height: auto;
